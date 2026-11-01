@@ -1,0 +1,28 @@
+{
+  "seed": 20261022,
+  "as_of_date": "2026-10-22",
+  "counts": {
+    "departments": 10,
+    "roles": 45,
+    "employees": 1000,
+    "onboarding_cases": 888,
+    "task_templates": 12,
+    "tasks": 8000,
+    "dependencies": 40,
+    "access_roles": 32,
+    "approvals": 851,
+    "access_grants": 1500,
+    "access_requests": 156,
+    "assets": 1200,
+    "asset_assignments": 820,
+    "workflow_decisions": 20,
+    "offboarding_cases": 112
+  },
+  "requested_counts": {
+    "employees": 1000,
+    "tasks": 8000,
+    "grants": 1500,
+    "assets": 1200
+  },
+  "synthetic_only": true
+}

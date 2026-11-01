@@ -1,0 +1,46 @@
+role_id,title,department_id,job_family,level,default_worker_type,requires_equipment_profile,risk_tier,active_flag
+ROLE-001,Software Engineer,DEPT-001,Engineering,1,EMPLOYEE,0,LOW,1
+ROLE-002,Data Analyst,DEPT-002,Finance,2,EMPLOYEE,1,MEDIUM,1
+ROLE-003,Product Manager,DEPT-003,Human Resources,3,EMPLOYEE,1,HIGH,1
+ROLE-004,HR Partner,DEPT-004,Operations,4,EMPLOYEE,1,LOW,1
+ROLE-005,Finance Analyst,DEPT-005,Sales,5,EMPLOYEE,0,MEDIUM,1
+ROLE-006,Operations Specialist,DEPT-006,Marketing,6,EMPLOYEE,1,HIGH,1
+ROLE-007,Security Engineer,DEPT-007,Legal,1,EMPLOYEE,1,LOW,1
+ROLE-008,Sales Executive,DEPT-008,Customer Success,2,EMPLOYEE,1,MEDIUM,1
+ROLE-009,UX Designer,DEPT-009,Security,3,EMPLOYEE,0,HIGH,1
+ROLE-010,IT Support Engineer,DEPT-010,Data,4,EMPLOYEE,1,LOW,1
+ROLE-011,Software Engineer 2,DEPT-001,Engineering,5,EMPLOYEE,1,MEDIUM,1
+ROLE-012,Data Analyst 2,DEPT-002,Finance,6,EMPLOYEE,1,HIGH,1
+ROLE-013,Product Manager 2,DEPT-003,Human Resources,1,EMPLOYEE,0,LOW,1
+ROLE-014,HR Partner 2,DEPT-004,Operations,2,EMPLOYEE,1,MEDIUM,1
+ROLE-015,Finance Analyst 2,DEPT-005,Sales,3,EMPLOYEE,1,HIGH,1
+ROLE-016,Operations Specialist 2,DEPT-006,Marketing,4,EMPLOYEE,1,LOW,1
+ROLE-017,Security Engineer 2,DEPT-007,Legal,5,EMPLOYEE,0,MEDIUM,1
+ROLE-018,Sales Executive 2,DEPT-008,Customer Success,6,EMPLOYEE,1,HIGH,1
+ROLE-019,UX Designer 2,DEPT-009,Security,1,EMPLOYEE,1,LOW,1
+ROLE-020,IT Support Engineer 2,DEPT-010,Data,2,EMPLOYEE,1,MEDIUM,1
+ROLE-021,Software Engineer 3,DEPT-001,Engineering,3,EMPLOYEE,0,HIGH,1
+ROLE-022,Data Analyst 3,DEPT-002,Finance,4,EMPLOYEE,1,LOW,1
+ROLE-023,Product Manager 3,DEPT-003,Human Resources,5,EMPLOYEE,1,MEDIUM,1
+ROLE-024,HR Partner 3,DEPT-004,Operations,6,EMPLOYEE,1,HIGH,1
+ROLE-025,Finance Analyst 3,DEPT-005,Sales,1,EMPLOYEE,0,LOW,1
+ROLE-026,Operations Specialist 3,DEPT-006,Marketing,2,EMPLOYEE,1,MEDIUM,1
+ROLE-027,Security Engineer 3,DEPT-007,Legal,3,EMPLOYEE,1,HIGH,1
+ROLE-028,Sales Executive 3,DEPT-008,Customer Success,4,EMPLOYEE,1,LOW,1
+ROLE-029,UX Designer 3,DEPT-009,Security,5,EMPLOYEE,0,MEDIUM,1
+ROLE-030,IT Support Engineer 3,DEPT-010,Data,6,EMPLOYEE,1,HIGH,1
+ROLE-031,Software Engineer 4,DEPT-001,Engineering,1,EMPLOYEE,1,LOW,1
+ROLE-032,Data Analyst 4,DEPT-002,Finance,2,EMPLOYEE,1,MEDIUM,1
+ROLE-033,Product Manager 4,DEPT-003,Human Resources,3,EMPLOYEE,0,HIGH,1
+ROLE-034,HR Partner 4,DEPT-004,Operations,4,EMPLOYEE,1,LOW,1
+ROLE-035,Finance Analyst 4,DEPT-005,Sales,5,EMPLOYEE,1,MEDIUM,1
+ROLE-036,Operations Specialist 4,DEPT-006,Marketing,6,EMPLOYEE,1,HIGH,1
+ROLE-037,Security Engineer 4,DEPT-007,Legal,1,EMPLOYEE,0,LOW,1
+ROLE-038,Sales Executive 4,DEPT-008,Customer Success,2,EMPLOYEE,1,MEDIUM,1
+ROLE-039,UX Designer 4,DEPT-009,Security,3,EMPLOYEE,1,HIGH,1
+ROLE-040,IT Support Engineer 4,DEPT-010,Data,4,EMPLOYEE,1,LOW,1
+ROLE-041,Software Engineer 5,DEPT-001,Engineering,5,EMPLOYEE,0,MEDIUM,1
+ROLE-042,Data Analyst 5,DEPT-002,Finance,6,EMPLOYEE,1,HIGH,1
+ROLE-043,Product Manager 5,DEPT-003,Human Resources,1,EMPLOYEE,1,LOW,1
+ROLE-044,HR Partner 5,DEPT-004,Operations,2,EMPLOYEE,1,MEDIUM,1
+ROLE-045,Finance Analyst 5,DEPT-005,Sales,3,EMPLOYEE,0,HIGH,1

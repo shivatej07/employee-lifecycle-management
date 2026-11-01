@@ -1,0 +1,7 @@
+Coverage run: coverage run --source=onboarding_sim -m pytest -q
+Tests: 25 passed
+Total statements: 393
+Missed statements: 17
+Total coverage: 96%
+Remaining uncovered code: onboarding_sim/web/main.py lines 19, 33-39, 66-69, 72-76.
+This measures exercised Python statements, not completeness of business requirements or browser-level acceptance.

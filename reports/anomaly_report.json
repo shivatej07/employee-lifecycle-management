@@ -1,0 +1,50 @@
+{
+  "ACCESS_BEFORE_START_OR_APPROVAL": {
+    "TP": 20,
+    "FP": 0,
+    "FN": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "F1": 1.0
+  },
+  "DUPLICATE_ASSET_ASSIGNMENT": {
+    "TP": 20,
+    "FP": 0,
+    "FN": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "F1": 1.0
+  },
+  "OVERRIDE_WITHOUT_AUDIT": {
+    "TP": 8,
+    "FP": 12,
+    "FN": 12,
+    "precision": 0.4,
+    "recall": 0.4,
+    "F1": 0.4
+  },
+  "RECOVERED_ASSET_REMAINS_ASSIGNED": {
+    "TP": 20,
+    "FP": 0,
+    "FN": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "F1": 1.0
+  },
+  "TASK_DEPENDENCY_CYCLE": {
+    "TP": 40,
+    "FP": 0,
+    "FN": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "F1": 1.0
+  },
+  "TERMINATED_EMPLOYEE_RETAINS_GRANT": {
+    "TP": 12,
+    "FP": 8,
+    "FN": 0,
+    "precision": 0.6,
+    "recall": 1.0,
+    "F1": 0.75
+  }
+}

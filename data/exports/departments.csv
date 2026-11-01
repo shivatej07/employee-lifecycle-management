@@ -1,0 +1,11 @@
+department_id,name,cost_center,location_mode,head_manager_id
+DEPT-001,Engineering,CC-100,OFFICE,
+DEPT-002,Finance,CC-101,HYBRID,
+DEPT-003,Human Resources,CC-102,REMOTE,
+DEPT-004,Operations,CC-103,OFFICE,
+DEPT-005,Sales,CC-104,HYBRID,
+DEPT-006,Marketing,CC-105,REMOTE,
+DEPT-007,Legal,CC-106,OFFICE,
+DEPT-008,Customer Success,CC-107,HYBRID,
+DEPT-009,Security,CC-108,REMOTE,
+DEPT-010,Data,CC-109,OFFICE,

@@ -1,0 +1,19 @@
+{
+  "employees": 1000,
+  "tasks": 8000,
+  "access_grants": 1500,
+  "assets": 1200,
+  "onboarding_cases": 888,
+  "offboarding_cases": 112,
+  "task_status": {
+    "BLOCKED": 2000,
+    "DONE": 2000,
+    "IN_PROGRESS": 2000,
+    "READY": 2000
+  },
+  "employee_status": {
+    "ACTIVE": 866,
+    "PRE_BOARDING": 22,
+    "TERMINATED": 112
+  }
+}

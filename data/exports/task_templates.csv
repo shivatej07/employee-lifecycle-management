@@ -1,0 +1,13 @@
+template_id,title,owner_team,task_type,optional_flag,sla_hours
+TPL-001,Identity verification,HR,VERIFICATION,0,48
+TPL-002,Background check,HR,BACKGROUND,0,48
+TPL-003,Contract signing,HR,CONTRACT,1,48
+TPL-004,Create company account,IT,ACCOUNT,0,48
+TPL-005,Access request review,MANAGER,APPROVAL,0,48
+TPL-006,Provision approved access,IT,PROVISION,0,48
+TPL-007,Prepare laptop,IT,EQUIPMENT,0,48
+TPL-008,Deliver equipment,FACILITIES,DELIVERY,0,48
+TPL-009,Acknowledge equipment,EMPLOYEE,ACK,0,72
+TPL-010,Orientation,HR,ORIENTATION,1,72
+TPL-011,Manager introduction,MANAGER,INTRO,0,72
+TPL-012,Day-1 readiness,MANAGER,READINESS,0,72
